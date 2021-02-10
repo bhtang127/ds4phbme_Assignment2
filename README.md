@@ -12,3 +12,4 @@ This assignment will use Autograding therefore make sure following tips / requir
 4. Make sure you output the result in question 2 to system stdout (which is just print out on screen), don't output it to any other files like question 1.
 5. Make sure in question 2 you only output 1 number and no any other characters.
 6. In question 2, you are supposed to find the number of lines that contain 'Han Solo', not counting the appearence of Han Solo.
+7. Do not change any stuff within `tests/` folder.
